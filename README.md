@@ -28,11 +28,19 @@ I built this portfolio to practice and improve my frontend development skills wh
 - Responsive Web Design
 - Git & GitHub
 
-## 📂 Project Structure
-Portfolio/
-│
-├── index.html
-├── style.css
-├── script.js
+## 📁 Project Structure
+
+Here's the basic structure of the project directory:
+
+```
+Portfolio-/
+├── index.html    [HTML5]
+├── style.css    [CSS3]
+├── script.js     [JavaScript]
 ├── assets/
-└── README.md
+│   ├── images/   [images]
+│   
+└── README.md    [Markdown]
+```
+
+💡 Note: The `assets/` folder contains all the images, icons, and other files used in the website.
